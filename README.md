@@ -17,4 +17,7 @@ This marketplace depends on ether, so in order to buy or sell an NFT, a user wil
 
 To buy an NFT, a user should first navigate to the Marketplace tab. Once there, they can select on the NFT they want to buy and pay for it.
 
+Frontend and Backend 
+In order to have a marketplace, you need a site that users can actually interact with. It was developed with a variety of common frontend langauges/formats like CSS, JSON, JavaScript. The backend of this marketplace is Vyper. It has the contract for the marketplace and creates/deploys/accesses contracts for NFTs.
+
 
