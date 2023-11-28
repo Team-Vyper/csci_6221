@@ -7,7 +7,7 @@
 3. Sree Vaishnavi Rao Bommena
 4. Madison Scherer
 
-#NFT Marketplace
+NFT Marketplace
 
 The purpose of this marketplace is to allow the buying and selling of NFTs on Ethereum's Virtual Network. This is done through the use of Vyper smart contracts and  Interplanetary File System (IPFS) as well as MetaWallet integration. 
 
